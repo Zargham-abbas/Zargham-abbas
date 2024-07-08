@@ -1,6 +1,6 @@
 ![logo](https://export-download.canva.com/F7Qx0/DAGKV0F7Qx0/13/0/0001-4023273949248815649.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJHKNGJLC2J7OGJ6Q%2F20240707%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240707T085913Z&X-Amz-Expires=87259&X-Amz-Signature=d2cfd64262105fa2ac7325bb8ff2748d7045a9823e3f5c0d4ad16d7ddeb68cc2&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%27ZARGHAM%2520ABBAS.png&response-expires=Mon%2C%2008%20Jul%202024%2009%3A13%3A32%20GMT)
 <h1 align="center">Hi 👋, I'm Zargham-Abbas</h1>
-<h3 align="center">A passionate Graphic,Web. Designer , learning Cloud Applied Generative A.I Engineer and studing Cybersecurity</h3>
+<h3 align="center">A passionate Graphic,Web. Designer , learning Cloud Applied Generative A.I Engineer and studying Cybersecurity</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
