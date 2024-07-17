@@ -8,13 +8,15 @@
 
 <p align="left"> <a href="https://twitter.com/zarghamabbas89" target="blank"><img src="https://img.shields.io/twitter/follow/zarghamabbas89?logo=twitter&style=for-the-badge" alt="zarghamabbas89" /></a> </p>
 
-- 🌱 I’m currently learning **Doing different courses of A.I.**
+- 🌱 I’m currently learning **typescript, next.js, python,cybersecurity**
 
-- 💬 Ask me about **Cloud Applied Generative A.I. Engineering.**
+- 👨‍💻 All of my projects are available at https://linktr.ee/zargham_.abbas
+
+- 💬 Ask me about **typescript, javascript, python.**
 
 - 📫 How to reach me **zarghamabbas859@gmail.com**
 
-- ⚡ Fun fact **I think i am funny.**
+- ⚡ Fun fact **focusing on carrier 😁.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
