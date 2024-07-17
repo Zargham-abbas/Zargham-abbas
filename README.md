@@ -1,6 +1,6 @@
 ![logo](https://github.com/Zargham-abbas/Zargham-abbas/blob/main/ZARGHAM%20ABBAS.png?raw=true)
 <h1 align="center">Hi 👋, I'm Zargham-Abbas</h1>
-<h3 align="center">A passionate Graphic,Web. Designer , learning Cloud Applied Generative A.I Engineer and studying Cybersecurity</h3>
+<h3 align="center">A passionate Graphic,Web. Designer , learning Cloud Applied Generative A.I Engineering and studying Cybersecurity</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
