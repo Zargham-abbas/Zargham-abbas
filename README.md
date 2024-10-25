@@ -1,7 +1,6 @@
-![logo](![ZARGHAM ABBAS](https://github.com/user-attachments/assets/2734a210-85ad-4341-9e90-1aa721ca5271)
-)
+![ZARGHAM ABBAS](https://github.com/user-attachments/assets/2734a210-85ad-4341-9e90-1aa721ca5271)
 <h1 align="center">Hi 👋, I'm Zargham-Abbas</h1>
-<h3 align="center">A passionate Graphic,Web. Designer , learning Cloud Applied Generative A.I Engineering and studying Cybersecurity</h3>
+<h3 align="center">A passionate Graphic,UI/UX Designer , learning Certified Cloud Applied Generative A.I and studying Cybersecurity</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
