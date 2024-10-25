@@ -1,4 +1,5 @@
-![logo](https://github.com/Zargham-abbas/Zargham-abbas/blob/main/ZARGHAM%20ABBAS.png?raw=true)
+![logo](![ZARGHAM ABBAS](https://github.com/user-attachments/assets/2734a210-85ad-4341-9e90-1aa721ca5271)
+)
 <h1 align="center">Hi 👋, I'm Zargham-Abbas</h1>
 <h3 align="center">A passionate Graphic,Web. Designer , learning Cloud Applied Generative A.I Engineering and studying Cybersecurity</h3>
 
