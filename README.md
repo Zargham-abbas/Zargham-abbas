@@ -1,4 +1,4 @@
-LinkedIn Banner](https://github.com/user-attachments/assets/cd5001f8-6172-4939-a9a0-f83e46da2324)
+(LinkedIn Banner](https://github.com/user-attachments/assets/cd5001f8-6172-4939-a9a0-f83e46da2324)
 
 <h1 align="center">Hi 👋, I'm Zargham-Abbas</h1>
 <h3 align="center">Junior Graphic & UI/UX Designer | Figma Specialist | BSCS Student</h3>
